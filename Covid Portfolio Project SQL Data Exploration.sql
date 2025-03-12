@@ -1,3 +1,5 @@
+/* ......SQL QUERIES.........*/
+
 select * 
 from CovidDeaths
 where continent is not null
